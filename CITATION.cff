@@ -4,6 +4,8 @@ title: "NPC SecAct open-data analysis"
 type: software
 version: 1.0.0
 date-released: 2026-08-26
+doi: 10.5281/zenodo.22110691
+url: "https://github.com/howordwang0/npc-secact-open-analysis"
 authors:
   - family-names: Wang
     given-names: Daijie
@@ -23,3 +25,7 @@ keywords:
   - single-cell RNA sequencing
   - spatial transcriptomics
   - reproducible research
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22110691
+    description: Archived v1.0.0 release

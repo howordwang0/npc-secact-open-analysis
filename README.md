@@ -4,6 +4,8 @@ Reproducibility package for the manuscript **Patient-level multimodal
 localization and robustness testing of treatment-associated secreted-protein
 activity in nasopharyngeal carcinoma**.
 
+Archived release DOI: https://doi.org/10.5281/zenodo.22110691
+
 ## Scope
 
 This repository contains analysis code, frozen protocols, de-identified
@@ -41,6 +43,7 @@ SecAct superiority, or a validated clinical predictor.
 
 ## Citation and license
 
-Citation metadata are provided in `CITATION.cff`. Code is released under the
-MIT License. Source datasets and third-party software retain their original
+Citation metadata are provided in `CITATION.cff`. Cite the archived v1.0.0
+release using https://doi.org/10.5281/zenodo.22110691. Code is released under
+the MIT License. Source datasets and third-party software retain their original
 licenses and terms.
