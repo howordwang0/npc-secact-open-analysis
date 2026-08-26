@@ -1,0 +1,292 @@
+{
+  "manifest_version": "v0.3",
+  "status_date": "2026-08-26",
+  "purpose": "Q1/Q2 enhancement manuscript plus GSE102349 public time-to-event extension",
+  "environment_reference": "outputs/NPC_SecAct_software_and_hash_manifest_v0.1.json",
+  "python": "3.12.13",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scipy": null,
+    "matplotlib": null,
+    "statsmodels": null,
+    "scikit-learn": null
+  },
+  "docx_export": {
+    "runtime": "Codex bundled workspace dependency 26.819.11345",
+    "python_docx": "1.2.0"
+  },
+  "artifacts": [
+    {
+      "path": "outputs/NPC_SecAct_manuscript_Q1Q2_v0.6.md",
+      "bytes": 63777,
+      "sha256": "2dce9ab757745468e243173e553f349afc36ad1b5f444417ff5aa8ab73d1a850"
+    },
+    {
+      "path": "outputs/NPC_SecAct_manuscript_Q1Q2_v0.6.docx",
+      "bytes": 60495,
+      "sha256": "b33932c848b143d98330423aa7b2638cf631f9b054decb3632c956e5ac5bfde0"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE102349_protocol_audit_report_v0.1.md",
+      "bytes": 869,
+      "sha256": "70ffc2ac3b7f0f0fc472121fdabe5af4bb129d65cfea4c5a8a865bc8f11ce00d"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE102349_survival_results_v0.1.tsv",
+      "bytes": 4123,
+      "sha256": "2cce887895f2ed6d7097ab5cea3d39013925ef7a1d253a1af38c6ddca82d46e6"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE102349_patient_scores_v0.1.tsv",
+      "bytes": 20025,
+      "sha256": "eda3c7e64f8af5844eff3fbaffefadeb1de04acd8e4cb3aa1f02ed514ff3a84b"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE102349_survival_run_v0.1.json",
+      "bytes": 1829,
+      "sha256": "c7c26d1714413f1d42c7c4c9d0ec896672f1b38e7c7d234f4266c1b475fe5ee2"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE102349_survival_report_v0.1.md",
+      "bytes": 1337,
+      "sha256": "53b52f3d89d2b5489aa95912496dbe1fa07f988f80fa67bba2b85ca9f35a3226"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE102349_direct_expression_coverage_v0.1.tsv",
+      "bytes": 2287,
+      "sha256": "c5d6f57eca171d9744c05cda4c9449490ea4b6f4751f58941100d977078b3015"
+    },
+    {
+      "path": "outputs/NPC_SecAct_project_status_v0.4.md",
+      "bytes": 2776,
+      "sha256": "49d8106d0bfc71a5a6b4cc300f14e187e1ae5f00c2b08135795e25f6214e60b2"
+    },
+    {
+      "path": "outputs/NPC_SecAct_manuscript_Q1Q2_v0.5.md",
+      "bytes": 58359,
+      "sha256": "a0ca6bd018ad146ba38ae915b5748feda68bcbddfbd4e0833d731eb69d44d825"
+    },
+    {
+      "path": "outputs/NPC_SecAct_manuscript_Q1Q2_v0.5.docx",
+      "bytes": 58670,
+      "sha256": "c3a9387dc1bd9351a3f7e352c69cb29a0299c26260e63fbf43b92f47b4d90c77"
+    },
+    {
+      "path": "outputs/NPC_SecAct_Q1Q2_enhancement_frozen_protocol_v0.1.md",
+      "bytes": 13197,
+      "sha256": "1386b515e5a2fbe61184e46e6154738e84bfb0f00d3d8bfd9ada8a7f1f882067"
+    },
+    {
+      "path": "outputs/NPC_SecAct_Q1Q2_enhancement_frozen_protocol_v0.7.md",
+      "bytes": 1984,
+      "sha256": "78864b637c816d80c1df2f77d1bddc3ab3fe46fdf27ffdd56ec995da3d6be2a1"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE150430_localization_summary_v0.1.tsv",
+      "bytes": 1573,
+      "sha256": "8251fae32b2389b1e52b219a5504be700b59b17b969c4080c5b48662a23bb238"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE150430_primary_patient_differences_v0.1.tsv",
+      "bytes": 5307,
+      "sha256": "c8893c413a651e536c40dce8e48c79ad580af91e7aa0b86595abeac8bcd56bdd"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE200310_external_spatial_summary_v0.1.tsv",
+      "bytes": 2583,
+      "sha256": "57e0ca04f2e9b3161297a0cff612c5c381e6fe0c6c0c4b7c251db1554158e80d"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE206245_composition_spatial_robustness_v0.1.tsv",
+      "bytes": 3137,
+      "sha256": "456c76d071ce870f5b9d4daa77de6d2111c3ed5d23f5c64bfc8eddb01325f23e"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE206245_composition_spatial_robustness_v0.1.json",
+      "bytes": 1167,
+      "sha256": "fb44fa04139422935911aeb93e006797d636bf4fae6704ce508fc19b98c50886"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE206245_matched_random_programs_v0.1.tsv",
+      "bytes": 291824,
+      "sha256": "934a0fcbf282c0ddd47c321254ae6a0140d3ac8de20359874d7388b110c25c13"
+    },
+    {
+      "path": "outputs/NPC_SecAct_GSE206245_matched_random_summary_v0.1.json",
+      "bytes": 1046,
+      "sha256": "73197c3d72692f14dd36f4cd8c4937b7bcfee9fe37b58627aff809055cd81bff"
+    },
+    {
+      "path": "outputs/NPC_SecAct_Q1Q2_reviewer_evidence_table_v0.1.tsv",
+      "bytes": 2603,
+      "sha256": "d62b30f10c2711ab8ac76f56a5772b2d704c9485c3577ef69b56423f63725f57"
+    },
+    {
+      "path": "outputs/NPC_SecAct_Q1Q2_enhancement_report_v0.1.md",
+      "bytes": 3797,
+      "sha256": "46318c009be8451535fa77bcddc498516784ae41a5843e4dc263c32c782b1fc6"
+    },
+    {
+      "path": "outputs/NPC_SecAct_Q1Q2_figure_inventory_v0.1.md",
+      "bytes": 1383,
+      "sha256": "56c8ccd19e606d9afc011b575f91cb6f78d09595c8a9ddcbd552f06676db0b4a"
+    },
+    {
+      "path": "outputs/NPC_SecAct_project_status_v0.3.md",
+      "bytes": 2214,
+      "sha256": "7166659d546a7ce987e3d3e9a4ffd09a3469d565ac57eb3e2e312ed5348f74e1"
+    },
+    {
+      "path": "outputs/NPC_SecAct_npj_Precision_Oncology_cover_letter_v0.1.md",
+      "bytes": 2936,
+      "sha256": "aee2a33bb8616deea49e7cb8d64dbc623b0bc17f6106fedfa2a518afb94cb4dc"
+    },
+    {
+      "path": "outputs/NPC_SecAct_npj_Precision_Oncology_cover_letter_v0.1.docx",
+      "bytes": 39022,
+      "sha256": "460e0035c0fbf4efba483e6ffd651f8d96791c2d3b5d0ab2f7879abcf25fcadd"
+    },
+    {
+      "path": "outputs/NPC_SecAct_Q1Q2_submission_strategy_v0.1.md",
+      "bytes": 2357,
+      "sha256": "6ec1b99555cc1b779a4bff08c3d70a349af0b4e7a6270403ac378b4f7eeeb27d"
+    },
+    {
+      "path": "outputs/NPC_SecAct_public_clinical_endpoint_inventory_v0.1.md",
+      "bytes": 6775,
+      "sha256": "4ed654bf27f0bc6ae1c076b6722679a5271808085a5400d87f7015f92da07fbd"
+    },
+    {
+      "path": "outputs/NPC_SecAct_Q1Q2_manuscript_number_audit_v0.1.tsv",
+      "bytes": 2093,
+      "sha256": "a9bb0b03cb7cdc5455085d2f4724f6909be29888a1b901baa323c0dacecf12e2"
+    },
+    {
+      "path": "outputs/NPC_SecAct_Q1Q2_manuscript_number_audit_report_v0.1.md",
+      "bytes": 525,
+      "sha256": "7384703b37f114fec5e2953c23ec549d1c4e82aa26a69680ef5c90e8062e49da"
+    },
+    {
+      "path": "outputs/figures/NPC_SecAct_Q1Q2_figure1_study_flow_v0.2.png",
+      "bytes": 515729,
+      "sha256": "b9649e60e17a5b882581eba395bfe0387cd678c986cf1e2200273741700dcc66"
+    },
+    {
+      "path": "outputs/figures/NPC_SecAct_Q1Q2_figure1_study_flow_v0.2.pdf",
+      "bytes": 41880,
+      "sha256": "421fdf0a472adad667f0b5f9bb0b4cbd1b0985fbb19735bfea3d7a43a3161efd"
+    },
+    {
+      "path": "outputs/figures/NPC_SecAct_Q1Q2_figure6_enhancement_v0.1.png",
+      "bytes": 586245,
+      "sha256": "3772b3739d1f6644688b233cc91b427f84bd3a4f4589ac721dd4edc3b8d7cafc"
+    },
+    {
+      "path": "outputs/figures/NPC_SecAct_Q1Q2_figure6_enhancement_v0.1.pdf",
+      "bytes": 37341,
+      "sha256": "f2a76b251765d08d3c63cb2e5b93e124a9e83e4e3fdf73b9c9848718e0a433c3"
+    },
+    {
+      "path": "outputs/figures/NPC_SecAct_Q1Q2_figure7_GSE102349_survival_v0.1.png",
+      "bytes": 150692,
+      "sha256": "1cfcf356b74c83d85f1a2d29636733475c3bc52dbb3bac6c8423bd24611f6d8f"
+    },
+    {
+      "path": "outputs/figures/NPC_SecAct_Q1Q2_figure7_GSE102349_survival_v0.1.pdf",
+      "bytes": 33553,
+      "sha256": "479f493a39cf50a6caa49b1246029b10dc734313bf37cfad776d08ca6e423cc2"
+    },
+    {
+      "path": "work/audit_q1q2_enhancement_inputs.py",
+      "bytes": 14167,
+      "sha256": "8be6163130494db7e7870c53dd52cd4d98a00bf49ec270717753fe7ab4c2848d"
+    },
+    {
+      "path": "work/aggregate_gse150430_processed.py",
+      "bytes": 7336,
+      "sha256": "8e9147355e984c7dd2726100a69b559036b3306554e9511ca0c535f8bcc2a584"
+    },
+    {
+      "path": "work/analyze_gse150430_independent_localization.py",
+      "bytes": 14001,
+      "sha256": "08696547d12c005d07d754e87ff860bb775191f728ee12076e7fadac6cbe66b9"
+    },
+    {
+      "path": "work/analyze_gse200310_external_spatial.py",
+      "bytes": 20159,
+      "sha256": "bf5d9b7ae75f5fcec5519dcf63b5d7d41ed5ce216c9c1f35254b7391aaec9f4a"
+    },
+    {
+      "path": "work/derive_composition_proxy_markers.py",
+      "bytes": 9618,
+      "sha256": "b9edca9d6ce7e205a57e6b28f2d3adebda523f3c5532ddc8f7f078b694b6095f"
+    },
+    {
+      "path": "work/robustness_gse206245_composition_spatial.py",
+      "bytes": 11027,
+      "sha256": "093aa697864afad29c12c36aeec3ee90e7f1f496def6769f2d49ae56f4c410cd"
+    },
+    {
+      "path": "work/export_gse206245_full_secact_groups.py",
+      "bytes": 3453,
+      "sha256": "6bd837b9a2fdcdcb6538093cee2b20e9c553cf17a0101b664850d12a4e9adfd0"
+    },
+    {
+      "path": "work/matched_random_programs_gse206245.py",
+      "bytes": 9058,
+      "sha256": "991a21a6f820beb56da0a930ac87c47b0f6c8eec5852712b17cbeed7db8254eb"
+    },
+    {
+      "path": "work/create_q1q2_figure1_flow.py",
+      "bytes": 6110,
+      "sha256": "4145588d73ff1fa0da0cfab87c651364c7afa166324e3279b7b905eda67e0047"
+    },
+    {
+      "path": "work/create_q1q2_figure6.py",
+      "bytes": 7868,
+      "sha256": "7980a9185b896f7691e3a679138cb6aad97aa1acfacf8bd2df07cf573596fa08"
+    },
+    {
+      "path": "work/audit_q1q2_manuscript.py",
+      "bytes": 7833,
+      "sha256": "7e5eb7ca919794da0da0bda1a32c3f4a6efbef4c2d66658802f3faf3c5372ac3"
+    },
+    {
+      "path": "work/audit_q1q2_manuscript_v06.py",
+      "bytes": 9835,
+      "sha256": "30836c4ed9a433d10b828313dda20e7db77b92f15fb044f2d88941ad7ce60474"
+    },
+    {
+      "path": "work/audit_gse102349_protocol.py",
+      "bytes": 7492,
+      "sha256": "aae27e8848fa7589210f7f0c73eb42f845d1b535602f625c08ed32cb5bb6ca6b"
+    },
+    {
+      "path": "work/run_gse102349_survival_frozen.py",
+      "bytes": 12186,
+      "sha256": "da94152550c083560e61d77f29f38eadbf9f6500515173dcddd7479f205ef269"
+    },
+    {
+      "path": "work/create_gse102349_survival_figure.py",
+      "bytes": 2746,
+      "sha256": "15a4634308e0276581a3ef53b25a198cf33dbbf6921502009ee46fc334868a89"
+    },
+    {
+      "path": "work/build_q1q2_manifest_v03.py",
+      "bytes": 5389,
+      "sha256": "023919e9a019d5f3664809b5c80662887963c838f124e5b990d66e3d5a5a96dc"
+    },
+    {
+      "path": "work/export_submission_docx.py",
+      "bytes": 8992,
+      "sha256": "a351aaec5fd06ac769c92e5d2a8c679375f6f1c23b329acc84035d205f2deb41"
+    }
+  ],
+  "source_input_hashes": {
+    "GSE102349_metadata_sha256": "7066864c8df011e7f8c117d62308fa20e10984b19d9eccd8f9e3ec9be8f08d58",
+    "GSE102349_expression_sha256": "b85a16f7bc6d3441aec047cf5015b9a41633ec56822499c01495116716845773",
+    "GSE150430_processed_matrix_sha256": "d614371f41fa1f1951e51111af13fe5ee07dacb11f75adb35c661d018a3a3cc9",
+    "GSE200310_RAW_tar_sha256": "bddffdbbf399eb2b303d5944900f3a0a8b256b4ca4bae2d73322fb436a38e1fc"
+  }
+}

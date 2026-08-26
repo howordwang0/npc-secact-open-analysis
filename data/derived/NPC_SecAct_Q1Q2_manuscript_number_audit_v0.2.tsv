@@ -1,0 +1,46 @@
+check_id	description	passed	observed
+L01	GSE150430 eligible patients	True	14
+L02	GSE150430 positive patients	True	14
+L03	GSE150430 median difference	True	0.7350914552447959
+L04	GSE150430 Hedges gz	True	1.3836376135531243
+L05	GSE150430 exact P	True	0.0001220703125
+L06	GSE150430 direct positive patients	True	14
+L07	GSE150430 direct median	True	0.4603350097872185
+E01	GSE200310 patient 1 rho	True	0.2372374836262849
+E02	GSE200310 patient 2 rho	True	0.3619834000822363
+E03	GSE200310 both positive	True	[0.2372374836262849, 0.3619834000822363]
+E04	GSE200310 patient 1 shift P	True	0.0053475935828877
+E05	GSE200310 patient 2 shift P	True	0.0169491525423728
+R01	Composition-adjusted median rho	True	0.24253490226458221
+R02	Composition-adjusted positive patients	True	12
+R03	Composition-adjusted exact P	True	0.00048828125
+R04	Cohort toroidal-shift P	True	0.001
+R05	Cohort null median	True	0.03733872864847869
+M01	Matched-program observed percentile	True	98.9
+M02	Matched-program empirical P	True	0.011988011988011988
+M03	Loose-rule random programs	True	847
+S01	GSE102349 eligible records	True	88
+S02	GSE102349 events	True	16
+S03	GSE102349 up SecAct HR	True	0.5222816912176317
+S04	GSE102349 up SecAct FDR	True	0.0663931670178913
+S05	GSE102349 down SecAct HR	True	1.8726340230455532
+S06	GSE102349 up direct FDR	True	0.0578351536450664
+S07	No GSE102349 primary association passes FDR<0.05	True	[0.0663931670178913, 0.0663931670178913, 0.0578351536450664, 0.2708164346357556]
+T01	Manuscript contains: 14/14 patients	True	14/14 patients
+T02	Manuscript contains: median rho=0.243	True	median rho=0.243
+T03	Manuscript contains: two-sided empirical P=0.001	True	two-sided empirical P=0.001
+T04	Manuscript contains: 847/1,000 random programs	True	847/1,000 random programs
+T05	Manuscript contains: rho was 0.237 in patient 1	True	rho was 0.237 in patient 1
+T06	Manuscript contains: Direct treatment-up expression was again stronger than SecAct in both external	True	Direct treatment-up expression was again stronger than SecAct in both external
+T07	Manuscript contains: GSE150430	True	GSE150430
+T08	Manuscript contains: GSE200310	True	GSE200310
+T09	Manuscript contains: PMID: 32686767	True	PMID: 32686767
+T10	Manuscript contains: PMID: 37024479	True	PMID: 37024479
+T11	Manuscript contains: GSE102349	True	GSE102349
+T12	Manuscript contains: No association passed BH-FDR<0.05	True	No association passed BH-FDR<0.05
+F01	Figure 6 PNG exists and is nonempty	True	586245
+F02	Figure 6 PDF exists and is nonempty	True	37341
+F03	Updated Figure 1 PNG exists and is nonempty	True	515729
+F04	Updated Figure 1 PDF exists and is nonempty	True	41880
+F05	Figure 7 PNG exists and is nonempty	True	150692
+F06	Figure 7 PDF exists and is nonempty	True	33553

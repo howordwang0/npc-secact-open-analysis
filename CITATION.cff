@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software or derived-data package, please cite the associated manuscript and this archived release."
+title: "NPC SecAct open-data analysis"
+type: software
+version: 1.0.0
+date-released: 2026-08-26
+authors:
+  - family-names: Wang
+    given-names: Daijie
+  - family-names: Wang
+    given-names: Yu
+  - family-names: Ma
+    given-names: Mengfei
+  - family-names: Huang
+    given-names: Lin
+  - family-names: Cui
+    given-names: Cunlian
+    email: cuichunlian@qq.com
+license: MIT
+keywords:
+  - nasopharyngeal carcinoma
+  - SecAct
+  - single-cell RNA sequencing
+  - spatial transcriptomics
+  - reproducible research
