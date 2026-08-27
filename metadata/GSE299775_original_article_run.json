@@ -1,0 +1,32 @@
+{
+  "dataset": "GSE299775",
+  "analysis": "frozen 70-group treatment-up composite in PanCK-positive GeoMx WTA",
+  "protocol": "outputs/NPC_SecAct_Original_Article_GSE299775_frozen_protocol_v0.1.md",
+  "patients_primary": 24,
+  "MET": 14,
+  "nonMET": 10,
+  "normal_donors_descriptive": 3,
+  "normal_rois_descriptive": 4,
+  "n_rand": 1000,
+  "rng_method": "gsl",
+  "seed": 20260823,
+  "bootstrap_iterations": 2000,
+  "secactpy_version": "0.3.1",
+  "input_sha256": {
+    "work\\data_audit\\GSE299775_count_matrix.txt.gz": "F9573B58267879E87CEE214943A2E178B6F65BC40F2D89F78F1616DA3F4037D3",
+    "work\\data_audit\\GSE299775_samples.csv": "103C07D80C2F53109DFC0B62862270459200F8F0266615179F14D461256518BF",
+    "outputs\\NPC_SecAct_Zenodo13736891_dynamic_sets_v0.1.tsv": "18C1C24F687AFEBD752F07F9028FFA2FA1D84C6C63553197435FDC3F22765635",
+    "work\\zenodo13736891_bulk\\secact_paired_v0.1\\Zenodo13736891_secact_group_members.tsv": "2E10B85F58FADAFEA78ABD9670B064CEC54F29C9D619202686E7433C93D4555E"
+  },
+  "frozen_groups": 70,
+  "secact_groups_retained": 70,
+  "direct_groups_retained": 70,
+  "primary_association_supported": false,
+  "absolute_effect_difference": -0.2849017319345769,
+  "absolute_effect_difference_boot_ci": [
+    -1.2415106167924768,
+    0.5982427931111757
+  ],
+  "secact_incremental_separation_supported": false,
+  "interpretation_boundary": "Association and benchmarking only; no prospective prediction, cutoff, mechanism, or clinical utility claim."
+}

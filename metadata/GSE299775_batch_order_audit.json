@@ -1,0 +1,22 @@
+{
+  "plate_row_by_phenotype": {
+    "MET": {
+      "A": 3,
+      "B": 6,
+      "C": 2,
+      "D": 0,
+      "E": 2,
+      "F": 1
+    },
+    "nonMET": {
+      "A": 2,
+      "B": 0,
+      "C": 2,
+      "D": 1,
+      "E": 3,
+      "F": 2
+    }
+  },
+  "plate_row_chi_square_p_descriptive": 0.20142023661689157,
+  "note": "GEO reports upstream batch-effect removal and Q3 normalization; no outcome-selected adjustment is applied."
+}
