@@ -1,7 +1,7 @@
 {
   "title": "NPC SecAct open-data analysis",
   "upload_type": "software",
-  "description": "Reproducibility package for a patient-level multimodal analysis of treatment-associated inferred secreted-protein activity in nasopharyngeal carcinoma. The release contains analysis code, frozen protocols, de-identified patient/specimen-level derived results, source-data audits, exact environment snapshots, hashes, and vector figures. It does not establish measured protein secretion, a proven cellular source, treatment causality, SecAct superiority, or a validated clinical predictor.",
+  "description": "Reproducibility package for a patient-level multimodal benchmark of treatment-associated inferred secreted-protein activity in nasopharyngeal carcinoma. Version 1.1.0 adds the independently frozen 24-patient GSE299775 PanCK-positive metastasis extension, matched direct-expression benchmark, patient-level derived data, audit outputs, and vector figures. It does not establish measured protein secretion, a proven cellular source, treatment causality, SecAct superiority, incremental clinical value, or a validated clinical predictor.",
   "creators": [
     {"name": "Wang, Daijie"},
     {"name": "Wang, Yu"},
@@ -11,8 +11,8 @@
   ],
   "access_right": "open",
   "license": "MIT",
-  "version": "1.0.0",
-  "publication_date": "2026-08-26",
+  "version": "1.1.0",
+  "publication_date": "2026-08-27",
   "keywords": [
     "nasopharyngeal carcinoma",
     "SecAct",

@@ -1,8 +1,8 @@
 # NPC SecAct open-data analysis
 
-Reproducibility package for the manuscript **Patient-level multimodal
-localization and robustness testing of treatment-associated secreted-protein
-activity in nasopharyngeal carcinoma**.
+Reproducibility package for the Original Article **Patient-level multimodal
+benchmarking reveals reproducible myeloid localization but limited incremental
+value of secreted-protein activity inference in nasopharyngeal carcinoma**.
 
 Archived release DOI: https://doi.org/10.5281/zenodo.22110691
 
@@ -14,8 +14,8 @@ and submitted vector figures. It does not redistribute large source matrices,
 raw sequencing data, controlled-access data, or the SecAct software package.
 
 The analyses use fully open data from GEO accessions GSE102349, GSE132112,
-GSE103611, GSE150430, GSE200310, GSE206245, and GSE289272, plus Zenodo record
-13736891. Source files should be downloaded from the repositories named in
+GSE103611, GSE150430, GSE200310, GSE206245, GSE289272, and GSE299775, plus
+Zenodo record 13736891. Source files should be downloaded from the repositories named in
 `metadata/NPC_SecAct_dataset_manifest_v0.3.csv`.
 
 ## Directory structure
@@ -39,7 +39,9 @@ GSE103611, GSE150430, GSE200310, GSE206245, and GSE289272, plus Zenodo record
 Cells, spots, and regions are never treated as independent patients for the
 manuscript's population-level claims. The repository does not support claims
 of measured protein secretion, a proven cellular source, treatment causality,
-SecAct superiority, or a validated clinical predictor.
+SecAct superiority, incremental clinical value, or a validated clinical
+predictor. Version 1.1.0 adds the independently frozen GSE299775 PanCK-positive
+metastasis extension and its matched direct-expression benchmark.
 
 ## Citation and license
 

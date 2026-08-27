@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software or derived-data package, please cite the associated manuscript and this archived release."
 title: "NPC SecAct open-data analysis"
 type: software
-version: 1.0.0
-date-released: 2026-08-26
+version: 1.1.0
+date-released: 2026-08-27
 doi: 10.5281/zenodo.22110691
 url: "https://github.com/howordwang0/npc-secact-open-analysis"
 authors:
@@ -28,4 +28,4 @@ keywords:
 identifiers:
   - type: doi
     value: 10.5281/zenodo.22110691
-    description: Archived v1.0.0 release
+    description: Concept DOI for the archived software releases; version 1.1.0 adds GSE299775

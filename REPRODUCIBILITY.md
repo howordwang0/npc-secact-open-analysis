@@ -41,7 +41,9 @@ result-level verification without redistributing large source matrices.
    CytoSig controls.
 7. Run GSE200310 descriptive spatial replication.
 8. Audit and run the GSE102349 time-to-event extension.
-9. Generate figures and run the manuscript number audit.
+9. Freeze and run the separate GSE299775 70-group PanCK-positive metastasis
+   extension without screening individual groups.
+10. Generate figures and run the manuscript number audit.
 
 Exact gates, seeds, eligibility rules, amendments, and stopping rules are in
 `protocols/`. Negative and non-computable branches must be retained.
@@ -56,5 +58,8 @@ Exact gates, seeds, eligibility rules, amendments, and stopping rules are in
   1,000 controls.
 - GSE102349: 88 evaluable records and 16 progression events; none of four
   associations passes BH-FDR < 0.05.
+- GSE299775: 24 NPC patients (14 MET, 10 nonMET); SecAct treatment-up composite
+  Hedges g=-0.738 with exact P=0.0789; direct-expression composite g=-1.023
+  with exact P=0.0188; paired effect-difference interval crosses zero.
 
 Use `SHA256SUMS.txt` to verify the released package before rerunning analyses.
