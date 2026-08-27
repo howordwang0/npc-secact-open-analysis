@@ -18,6 +18,14 @@ held hospital identifiers are included.
   sensitivity results for two external specimens.
 - `GSE289272_patient_scores`: patient-aggregated GeoMx scores; ROI-level values
   are not used as independent patients.
+- `GSE299775_patient_level_program_scores`: one PanCK-positive whole-
+  transcriptome ROI per NPC patient plus descriptive normal-donor scores; the
+  24 NPC patients are the primary inferential units.
+- `GSE299775_primary_and_benchmark_statistics`: frozen SecAct primary endpoint
+  and matched direct-expression benchmark, including exact permutation tests
+  and bootstrap effect intervals.
+- `GSE299775_paired_bootstrap_effects`: paired bootstrap draws used to compare
+  absolute SecAct and direct-expression effect magnitudes.
 - `Zenodo13736891_scrna_dynamic_scores`: patient, timepoint, lineage, scenario,
   and frozen-program score.
 - `GSE132112`, `GSE103611`, `Zenodo13736891_paired_results`, direct-expression,
