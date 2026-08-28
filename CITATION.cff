@@ -4,7 +4,7 @@ title: "NPC SecAct open-data analysis"
 type: software
 version: 1.1.0
 date-released: 2026-08-27
-doi: 10.5281/zenodo.22110691
+doi: 10.5281/zenodo.22126474
 url: "https://github.com/howordwang0/npc-secact-open-analysis"
 authors:
   - family-names: Wang
@@ -27,5 +27,5 @@ keywords:
   - reproducible research
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.22110691
-    description: Concept DOI for the archived software releases; version 1.1.0 adds GSE299775
+    value: 10.5281/zenodo.22126473
+    description: All-versions DOI for the archived software releases

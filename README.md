@@ -1,10 +1,12 @@
 # NPC SecAct open-data analysis
 
-Reproducibility package for the Original Article **Patient-level multimodal
-benchmarking reveals reproducible myeloid localization but limited incremental
-value of secreted-protein activity inference in nasopharyngeal carcinoma**.
+Reproducibility package for the Original Article **A patient-level multimodal
+benchmark framework for secreted-protein activity inference in nasopharyngeal
+carcinoma**.
 
-Archived release DOI: https://doi.org/10.5281/zenodo.22110691
+Archived v1.1.0 DOI: https://doi.org/10.5281/zenodo.22126474
+
+All-versions DOI: https://doi.org/10.5281/zenodo.22126473
 
 ## Scope
 
@@ -45,7 +47,7 @@ metastasis extension and its matched direct-expression benchmark.
 
 ## Citation and license
 
-Citation metadata are provided in `CITATION.cff`. Cite the archived v1.0.0
-release using https://doi.org/10.5281/zenodo.22110691. Code is released under
+Citation metadata are provided in `CITATION.cff`. Cite the archived v1.1.0
+release using https://doi.org/10.5281/zenodo.22126474. Code is released under
 the MIT License. Source datasets and third-party software retain their original
 licenses and terms.
