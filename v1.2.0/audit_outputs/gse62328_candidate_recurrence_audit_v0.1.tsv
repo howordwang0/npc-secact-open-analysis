@@ -1,0 +1,8 @@
+candidate	covered	n_recurrence_patients	n_no_recurrence_patients	mean_recurrence	mean_no_recurrence	recurrence_minus_no_recurrence	hedges_g_recurrence_minus_no_recurrence	welch_p_descriptive	probe_ids	interpretation
+WNT7A	True	9	4	0.7516462640000001	1.5487378569999999	-0.7970915929999998	-1.8461299864884924	0.015139223182326168	PH_hs_0004166	independent recurrence support; patient-level aggregation; exploratory due to n=15
+VSTM2L	True	7	4	1.0542723587142857	1.33161254625	-0.2773401875357142	-0.7331629729315166	0.20925701257710866	PH_hs_0000845	independent recurrence support; patient-level aggregation; exploratory due to n=15
+LAMA5	True	10	5	0.6834594765	0.8870793214999999	-0.20361984499999985	-0.42701962076816935	0.46790550370278494	PH_hs_0001110	independent recurrence support; patient-level aggregation; exploratory due to n=15
+ENTPD6	True	8	4	0.7974597757499999	0.9441231942500001	-0.1466634185000002	-0.3662325711239909	0.5272403618082089	PH_hs_0025669	independent recurrence support; patient-level aggregation; exploratory due to n=15
+MTCL2	False	0	0							not covered; no candidate test
+TXNDC16	True	9	5	0.8853782434444444	0.7343566394	0.15102160404444442	0.2671244642055448	0.5828234803075228	PH_hs_0023536	independent recurrence support; patient-level aggregation; exploratory due to n=15
+GAST	True	10	5	0.897939771425	1.231089529	-0.33314975757499987	-0.7276865306782915	0.09471110538050227	PH_hs_0000348;PH_hs_0042200	independent recurrence support; patient-level aggregation; exploratory due to n=15

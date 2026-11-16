@@ -1,0 +1,26 @@
+{
+  "WNT7A": {
+    "hedges_g": -1.488440596748371,
+    "bootstrap_95ci_percentile": [
+      -2.9147401052189004,
+      -0.7129821682682393
+    ],
+    "leave_one_patient_out_same_direction": 22,
+    "bootstrap_abs_g_rank_median": 64.0,
+    "bootstrap_top67_fraction": 0.511,
+    "effect_bootstrap_replicates": 20000,
+    "rank_bootstrap_replicates": 5000
+  },
+  "VSTM2L": {
+    "hedges_g": -1.3246221499516069,
+    "bootstrap_95ci_percentile": [
+      -2.3117442121523686,
+      -0.6699769942168132
+    ],
+    "leave_one_patient_out_same_direction": 22,
+    "bootstrap_abs_g_rank_median": 134.0,
+    "bootstrap_top67_fraction": 0.294,
+    "effect_bootstrap_replicates": 20000,
+    "rank_bootstrap_replicates": 5000
+  }
+}

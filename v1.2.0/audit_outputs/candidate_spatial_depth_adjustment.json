@@ -1,0 +1,18 @@
+{
+  "VSTM2L": {
+    "n_sections": 12,
+    "adjusted_positive_sections": 5,
+    "adjusted_median_rho": -0.028890662564608833,
+    "adjusted_exact_sign_two_sided_p": 0.7744140625,
+    "leave_one_section_out_median_min": -0.054578089744758744,
+    "leave_one_section_out_median_max": -0.0032032353844589226
+  },
+  "WNT7A": {
+    "n_sections": 12,
+    "adjusted_positive_sections": 7,
+    "adjusted_median_rho": 0.030977505709148763,
+    "adjusted_exact_sign_two_sided_p": 0.7744140625,
+    "leave_one_section_out_median_min": 0.014999641298777884,
+    "leave_one_section_out_median_max": 0.04695537011951964
+  }
+}

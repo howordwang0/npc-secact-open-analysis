@@ -1,0 +1,27 @@
+{
+  "accession": "GSE62328",
+  "title": "Longitudinal study of nasopharyngeal carcinoma tissue",
+  "paper": "Tulalamba et al., Frontiers in Oncology (PMID 36776376; DOI 10.3389/fonc.2022.1084713)",
+  "platform": "GPL13693 (Phalanx Human OneArray v5)",
+  "deposited_records": 30,
+  "unique_patients": 15,
+  "recurrence_patients": 10,
+  "no_recurrence_patients": 5,
+  "replicate_handling": "two deposited records per patient averaged by patient-level median before group testing",
+  "endpoint_role": "independent recurrence-status support, distinct from paclitaxel response discovery",
+  "candidate_coverage": {
+    "WNT7A": true,
+    "VSTM2L": true,
+    "LAMA5": true,
+    "ENTPD6": true,
+    "MTCL2": false,
+    "TXNDC16": true,
+    "GAST": true
+  },
+  "secact_signature_genes_total": 7919,
+  "secact_signature_genes_observed": 6807,
+  "secact_signature_coverage_percent": 85.958,
+  "secact_outputs": 1170,
+  "secact_parameters": "SecActPy 0.3.1; n_rand=1000; seed=20260823; rng_method=gsl; sorted genes",
+  "caveat": "small cohort; descriptive p-values only; no claim of validated therapeutic target"
+}
