@@ -1,0 +1,53 @@
+{
+  "dataset": "GSE150430",
+  "input_matrix": "GSE150430_npc_scRNA_hg19_processed_data.txt.gz",
+  "cell_count_in_matrix": 48584,
+  "original_cell_type_count": 26,
+  "patients_in_analysis": [
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10",
+    "P11",
+    "P12",
+    "P13",
+    "P14",
+    "P15"
+  ],
+  "patient_selection": "NPC patient IDs P02-P15; excludes normal N01 and P01 to match the existing 14-patient NPC compartment analysis",
+  "minimum_cells_per_patient_cell_type": 20,
+  "genes": [
+    "WNT7A",
+    "VSTM2L",
+    "FZD1",
+    "FZD2",
+    "FZD3",
+    "FZD4",
+    "FZD5",
+    "FZD6",
+    "FZD7",
+    "FZD8",
+    "FZD9",
+    "FZD10",
+    "LRP5",
+    "LRP6",
+    "ROR1",
+    "ROR2"
+  ],
+  "myeloid_annotations": {
+    "Macrophage": "Macrophage",
+    "Monocyte": "Monocyte",
+    "DC1 (CLEC9A+)": "DC1_CLEC9A+",
+    "DC2 (CD1C+)": "DC2_CD1C+",
+    "DC3 (CCR7+)": "DC3_CCR7+",
+    "pDC": "pDC"
+  },
+  "expression_definition": "nonzero means detected; arithmetic mean of author-processed matrix values",
+  "summary_definition": "median across patient-cell-type groups with at least 20 cells",
+  "interpretation": "descriptive transcript context only; no raw-count differential expression, reclustering, protein abundance, or ligand-receptor interaction inference"
+}
